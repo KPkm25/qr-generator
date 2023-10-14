@@ -1,8 +1,9 @@
 
 # QR Code Generator
 
-This project is a QR code generator, which allows users to generate QR codes for various purposes. It provides a simple and convenient way to encode different types of information into QR codes that can be easily scanned and decoded using a QR code reader or scanner.
+This project is a QR code generator, which allows users to generate QR codes for various purposes. It provides a simple and convenient way to encode different types of information into QR codes that can be easily scanned and decoded using a QR code reader or scanner. 
 
+See live sample: https://qr-generator-8yap.onrender.com/
 
 ## Features
 
